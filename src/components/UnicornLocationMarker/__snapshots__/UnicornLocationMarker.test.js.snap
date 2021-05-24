@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home component should match snapshot 1`] = `
+<li>
+  Pink
+  <select
+    id="Pink"
+    name="Pink-location"
+    onChange={[Function]}
+    value="Barn"
+  >
+    <option
+      value="Barn"
+    >
+      Barn
+    </option>
+    <option
+      value="Pasture"
+    >
+      Pasture
+    </option>
+    <option
+      value="Trails"
+    >
+      Trails
+    </option>
+  </select>
+</li>
+`;

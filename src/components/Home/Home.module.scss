@@ -1,0 +1,16 @@
+.horseLocations {
+  list-style: none;
+  padding-left: 0;
+  font-weight: bold;
+  ul {
+    list-style: none;
+    margin-bottom: 1rem;
+    padding-left: 0;
+    li {
+      font-weight: normal;
+    }
+  }
+  select {
+    margin-left: .5rem;
+  }
+}
